@@ -24,7 +24,7 @@ Este proyecto consiste en una aplicación en C++ para la gestión de pasajes en 
 
 ---
 
-### Ivan Rubén Cunyas
+### Dhilsen Mallqui Vilca
 **Contribuciones:**
 - Implementación de la **Escritura y Lectura de Datos** desde archivos, permitiendo persistir la información de los usuarios y las tarjetas de viaje.
 - Desarrollo de la clase **Usuarios** para gestionar los datos personales y las tarjetas asociadas.
