@@ -1,0 +1,37 @@
+JuanAngulo Juan Juan Angulo 2582357 1234 23424 0
+ENDCARD
+ENDBUS
+juan123 juan123 Jun Angulo 5283757 22 2535234 47
+VISA 3428323523 1104 333
+ENDCARD
+lIMA ICA 33 33 0:00 Transportes Nuevo Continente
+ENDBUS
+juan juan juan juan 12312 112 123 0
+ENDCARD
+ENDBUS
+zzz 123 Ivan Cunyas 756 18 94561231 28
+VISA 789456123456 1227 333
+ENDCARD
+LIMA CALLAO 99 36 15:00 Transportes Chiclayo
+a a 77 34 7:00 Transportes Ilo
+s s 98 30 4:00 Expreso Perla
+s s 74 42 11:00 Transportes Línea
+Huancayo Cajamarca 66 30 6:00 Transportes El Huáscar
+ENDBUS
+pepito rojas Pepito Rojas 253523 2332 4594 18
+visa 3423424 3443 233
+ENDCARD
+Arequipa Chiclayo 80 32 5:00 Transportes Interprovincial Pinos
+Cajamarca Lima 46 30 2:00 Expreso Turismo Becerra
+ENDBUS
+dhilsen 123 Dhilsen Mallqui 75893111 19 987654321 48
+VISA 1234 12 123
+ENDCARD
+Chiclayo Arequipa 78 32 23:00 Expreso Limatambo
+ENDBUS
+dhil dhil dhilsen mallqui 75323 16 3225 0
+ENDCARD
+ENDBUS
+dhil dhil s 1 2 3 4 0
+ENDCARD
+ENDBUS
